@@ -22,9 +22,6 @@
     "reactstrap": "^8.0.0",
     "web-vitals": "^2.1.2"
   },
-  "engines": {
-    "node": "17.5.0"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "webpack",
@@ -41,12 +38,9 @@
       "react-hooks/exhaustive-deps": "off"
     }
   },
-<<<<<<< HEAD
-=======
     "engines": {
       "node":">=14"
     },
->>>>>>> da6ea5532acbd1eae74ad6f38866ed1a399dbd3d
   "browserslist": {
     "production": [
       ">0.2%",

@@ -25,7 +25,7 @@
     "start": "react-scripts start",
     "build": "webpack",
     "test": "react-scripts test",
-    "eject": "react-scripts eject" 
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -37,9 +37,9 @@
       "react-hooks/exhaustive-deps": "off"
     }
   },
-    "engines": {
-      "node":">=15"
-    },
+  "engines": {
+    "node": ">=15"
+  },
   "browserslist": {
     "production": [
       ">0.2%",

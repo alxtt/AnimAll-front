@@ -1,7 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './styles/App.css';
 import {BrowserRouter, Route, Router, Routes} from "react-router-dom";
-import Navbar from "./components/UI/Navbar/Navbar";
 import AppRouter from "./components/AppRouter";
 import About from "./pages/About";
 import {Shelter} from "./pages/Shelter";

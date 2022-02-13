@@ -1,12 +1,7 @@
 import React from 'react';
-import SearchBar from "../components/SearchBar";
-import MyButton from "../components/UI/button/MyButton";
-import MyModal from "../components/UI/MyModal/MyModal";
 import Loader from "../components/UI/Loader/Loader";
 import Pagination from "../components/UI/pagination/Pagination";
-import LoginButton from "../components/LoginButton";
 import {Link} from "react-router-dom";
-import LogoutButton from "../components/LogOutButton";
 import { useAuth0 } from "@auth0/auth0-react";
 import Profile from "../components/Profile";
 
